@@ -1,5 +1,5 @@
 from os.path import join, dirname, realpath
-from setuptools import setup
+from setuptools imprt setup
 import sys
 
 assert sys.version_info.major == 3 and sys.version_info.minor >= 6, \
